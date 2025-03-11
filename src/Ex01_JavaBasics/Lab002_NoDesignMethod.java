@@ -1,7 +1,7 @@
 package Ex01_JavaBasics;
 
-public class Lab001 {
+public class Lab002_NoDesignMethod {
     public static void main(String[] args){
-        System.out.println("Hello");
+
     }
 }
