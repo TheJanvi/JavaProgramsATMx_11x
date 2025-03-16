@@ -1,4 +1,4 @@
-package Ex_02_Java_Basics_Part2;
+package Daily_Tasks;
 
 public class Task_11th_March {
     public static void main(String[] args) {
