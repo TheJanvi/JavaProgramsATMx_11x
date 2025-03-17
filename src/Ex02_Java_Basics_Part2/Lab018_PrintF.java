@@ -1,4 +1,4 @@
-package Ex_02_Java_Basics_Part2;
+package Ex02_Java_Basics_Part2;
 
 public class Lab018_PrintF {
     public static void main(String[] args) {

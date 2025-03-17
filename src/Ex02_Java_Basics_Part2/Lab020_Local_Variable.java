@@ -1,4 +1,4 @@
-package Ex_02_Java_Basics_Part2;
+package Ex02_Java_Basics_Part2;
 
 public class Lab020_Local_Variable {
     int a = 10;
@@ -10,4 +10,4 @@ public class Lab020_Local_Variable {
     boolean b1 = true;
     char c = '1';
 
-}
+}//local variable must be initialized.
