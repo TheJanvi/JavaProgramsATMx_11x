@@ -29,6 +29,8 @@ public class Task_14th_March_Triangle_Classifier {
         else {
             System.out.println("Triangle is Scalene");
         }
+
+        Sc.close();
     }
 
 }
