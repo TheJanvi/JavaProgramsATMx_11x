@@ -24,7 +24,7 @@ public class Lab_126_Function_Arth {
         if(scanner.hasNextInt()){
             a = scanner.nextInt();
         }else {
-            System.out.println("Enter the Int Only");
+            System.out.println("Enter the Int only");
             System.exit(0);
         }
 
@@ -66,6 +66,10 @@ public class Lab_126_Function_Arth {
     }
 
     static int Division(int a , int b){
+        if (b == 0){
+            System.out.println("Div by zero is not allowed");
+            System.exit(0);
+        }
         return a / b;
 
     }
