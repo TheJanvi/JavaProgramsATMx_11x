@@ -30,7 +30,13 @@ public class Lab_126_Function_Arth {
 
 
         System.out.println("Enter a Number 2:");
-        int b = scanner.nextInt();
+        int b = 0;
+        if (scanner.hasNextInt()){
+            scanner.nextInt();
+        }else {
+            System.out.println("Enter the Int only");
+            System.exit(0);
+        }
 
         int result_add = addition(a,b);
         System.out.println(result_add);
