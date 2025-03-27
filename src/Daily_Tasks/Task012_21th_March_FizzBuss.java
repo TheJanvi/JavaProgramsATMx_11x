@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task_21th_March_FizzBuss {
+public class Task012_21th_March_FizzBuss {
     public static void main(String[] args) {
 
         for (int i = 0; i < 100; i++)

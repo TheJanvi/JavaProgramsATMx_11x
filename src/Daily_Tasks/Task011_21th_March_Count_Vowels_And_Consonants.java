@@ -2,7 +2,7 @@ package Daily_Tasks;
 
 import java.util.Scanner;
 
-public class Task_21th_March_Count_Vowels_And_Consonants {
+public class Task011_21th_March_Count_Vowels_And_Consonants {
     public static void main(String[] args) {
         Scanner Sc = new Scanner(System.in);
         System.out.println("Enter a String:");
@@ -17,7 +17,7 @@ public class Task_21th_March_Count_Vowels_And_Consonants {
 
             if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
                 vowelCount++;
-            } else if (ch >= 'a' && ch <='z') {
+            } else  {
                 consonantCount++;
             }
 
