@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task_22th_March_Palindrome {
+public class Task013_22th_March_Palindrome {
     public static void main(String[] args) {
         String name= "level";
         String reversed ="";
