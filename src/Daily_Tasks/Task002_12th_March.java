@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task_12th_March {
+public class Task002_12th_March {
     public static void main(String[] args) {
         double x =1;
         double y = 2;
