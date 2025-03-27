@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task_11th_March {
+public class Task001_11th_March {
     public static void main(String[] args) {
         int a= 9 ;
         System.out.printf("%d x %d = %d \n", a, 1 , a);
