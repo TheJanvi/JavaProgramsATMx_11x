@@ -1,7 +1,7 @@
 package Daily_Tasks;
 import java.util.Scanner;
 
-public class Task_13th_March {
+public class Task003_13th_March {
     public static void main(String[] args) {
         //Grade Calculator
         Scanner scanner = new Scanner(System.in);
