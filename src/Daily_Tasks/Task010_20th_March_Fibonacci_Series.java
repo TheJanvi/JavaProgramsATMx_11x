@@ -2,7 +2,7 @@ package Daily_Tasks;
 
 import java.util.Scanner;
 
-public class Task_20th_March_Fibonacci_Series {
+public class Task010_20th_March_Fibonacci_Series {
     public static void main(String[] args) {
         //Fibonacci Series Generator
             Scanner Sc = new Scanner(System.in);
