@@ -1,7 +1,7 @@
 package Daily_Tasks;
 
 
-public class Task_14th_March_CLI {
+public class Task004_14th_March_CLI {
     public static void main(String[] args) {
         String name = args[0];
 

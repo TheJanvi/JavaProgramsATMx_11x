@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task_14th_March_In_De01 {
+public class Task007_14th_March_In_De01 {
     public static void main(String[] args) {
         //
         int a = 10;

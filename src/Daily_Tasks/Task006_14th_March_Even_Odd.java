@@ -2,7 +2,7 @@ package Daily_Tasks;
 
 import java.util.Scanner;
 
-public class Task_14th_March_Even_Odd {
+public class Task006_14th_March_Even_Odd {
     public static void main(String[] args) {
         //Create a Program
         //Take User Input

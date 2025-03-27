@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task_14th_March_In_De02 {
+public class Task008_14th_March_In_De02 {
     public static void main(String[] args) {
         int a =20;
         System.out.println(--a + a++ + a--);

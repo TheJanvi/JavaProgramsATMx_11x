@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task_14th_March_CLI02 {
+public class Task005_14th_March_CLI02 {
     public static void main(String[] args) {
         int number_1 = Integer.parseInt(args[0]);
         int number_2 = Integer.parseInt(args[1]);
