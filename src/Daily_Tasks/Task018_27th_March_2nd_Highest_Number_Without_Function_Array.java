@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task018_27th_March_2nd_Highest_Number_Without_Function {
+public class Task018_27th_March_2nd_Highest_Number_Without_Function_Array {
     public static void main(String[] args) {
 
         int[] numbers = {12, 34, 10, 1, 100, 3, 4, 32};
