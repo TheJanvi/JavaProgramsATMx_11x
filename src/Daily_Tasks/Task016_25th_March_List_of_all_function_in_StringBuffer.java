@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task015_25th_March_List_of_all_function_in_StringBuffer {
+public class Task016_25th_March_List_of_all_function_in_StringBuffer {
     public static void main(String[] args) {
         //Creating StringBuffer
         StringBuffer sb = new StringBuffer("Hello");
@@ -78,12 +78,12 @@ public class Task015_25th_March_List_of_all_function_in_StringBuffer {
                   //toString(): Convert StringBuffer to String
                   StringBuffer sb14 = new StringBuffer("Hello ");
                   String str = sb14.toString();
-                  System.out.println(str);
+                  System.out.println("Convert StringBuffer to String-> " + str);
 
                   //trimToSize(): Reduces capacity to fit the current content
                   StringBuffer sb15 = new StringBuffer(50);
                   sb15.append("Hello");
                   sb15.trimToSize();
-                  System.out.println(sb15.capacity());
+                  System.out.println("Reduces capacity to fit the current content-> " + sb15.capacity());
     }
 }
