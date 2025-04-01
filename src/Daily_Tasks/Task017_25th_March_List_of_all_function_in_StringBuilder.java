@@ -41,12 +41,12 @@ public class Task017_25th_March_List_of_all_function_in_StringBuilder {
         StringBuilder sb7 = new StringBuilder();
         System.out.println(sb7.capacity());
         sb7.append("Hello World");
-        System.out.println("Return the capacity of the buffer-> "  + sb7.capacity());
+        System.out.println("Return the capacity of the builder-> "  + sb7.capacity());
 
 
         //ensureCapacity(int minCapacity): Ensure a minimum capacity
         StringBuilder sb8 = new StringBuilder();
-        sb8.ensureCapacity(30);
+        sb8.ensureCapacity(50);
         System.out.println("Ensure a minimum capacity-> " + sb8.capacity());
 
 
