@@ -1,4 +1,4 @@
-package Ex_013_Functions;
+package Ex_13_Functions;
 
 public class Lab_125_Interview_Que {
     public static void main(String[] args) {
