@@ -1,4 +1,4 @@
-package Ex004_Operatprs;
+package Ex_04_Operators;
 
 public class Lab035_Operator_Equal {
     public static void main(String[] args) {

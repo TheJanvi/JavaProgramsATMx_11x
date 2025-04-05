@@ -1,4 +1,4 @@
-package Ex004_Operatprs;
+package Ex_04_Operators;
 
 public class Lab38_Operator_BODMAS {
     public static void main(String[] args) {
