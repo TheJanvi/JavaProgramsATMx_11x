@@ -1,4 +1,4 @@
-package ex_06_TO;
+package Ex_06_TO;
 
 public class Lab055_Interview_Ready_Question {
     public static void main(String[] args) {

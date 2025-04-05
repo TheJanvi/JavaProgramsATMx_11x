@@ -1,4 +1,4 @@
-package ex_06_TO;
+package Ex_06_TO;
 
 public class Lab058_TO_Even_Odd {
     public static void main(String[] args) {
