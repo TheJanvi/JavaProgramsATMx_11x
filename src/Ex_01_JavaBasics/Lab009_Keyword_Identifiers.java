@@ -1,4 +1,4 @@
-package Ex01_JavaBasics;
+package Ex_01_JavaBasics;
 
 public class Lab009_Keyword_Identifiers {
     public static void main(String[] args) {

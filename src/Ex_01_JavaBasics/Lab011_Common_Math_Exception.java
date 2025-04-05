@@ -1,4 +1,4 @@
-package Ex01_JavaBasics;
+package Ex_01_JavaBasics;
 
 public class Lab011_Common_Math_Exception {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Ex01_JavaBasics;
+package Ex_01_JavaBasics;
 
 public class Lab007_ShortCuts {
     public static void main(String[] args) {
