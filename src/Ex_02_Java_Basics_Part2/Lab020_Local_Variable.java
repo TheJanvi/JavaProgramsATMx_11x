@@ -1,4 +1,4 @@
-package Ex02_Java_Basics_Part2;
+package Ex_02_Java_Basics_Part2;
 
 public class Lab020_Local_Variable {
     int a = 10;
