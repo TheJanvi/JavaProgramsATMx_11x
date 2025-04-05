@@ -1,4 +1,4 @@
-package ex_08_if_Condition;
+package Ex_08_if_Condition;
 
 public class Lab071_If_P1
 {

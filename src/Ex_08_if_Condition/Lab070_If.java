@@ -1,4 +1,4 @@
-package ex_08_if_Condition;
+package Ex_08_if_Condition;
 
 public class Lab070_If {
     public static void main(String[] args) {
