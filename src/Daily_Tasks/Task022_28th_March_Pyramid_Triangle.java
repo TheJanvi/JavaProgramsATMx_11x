@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task021_28th_March_Pyramid_Triangle {
+public class Task022_28th_March_Pyramid_Triangle {
     public static void main(String[] args) {
 //        Pyramid Triangle
 //         *
