@@ -1,6 +1,6 @@
 package Daily_Tasks;
 
-public class Task_023_30th_March_ClassofPerson_A10_B4_All_Methods {
+public class Task023_30th_March_ClassofPerson_A10_B4_All_Methods {
     public static void main(String[] args) {
         Person p1 = new Person();
 
