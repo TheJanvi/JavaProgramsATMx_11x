@@ -17,5 +17,8 @@ interface incomplete_interface{
     int a = 10;
     void display();
 }
+abstract class  incomplete_abstract{
+    abstract void display1();
+}
 
 
